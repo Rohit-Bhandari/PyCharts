@@ -1,1 +1,3 @@
 # PyCharts
+
+> pip install matplotlib
